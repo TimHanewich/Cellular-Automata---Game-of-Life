@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CellularAutomata.GameOfLife</id>
+    <version>1.0.0</version>
+    <authors>Tim Hanewich</authors>
+    <owners>Tim Hanewich</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>Glider.png</icon>
+    <description>A recreation of John Conway's "Game of Life".  Uses arrays of boolean values to simulate cells.  Also includes a cloud compute module for computing the next frame in the cloud instead of on the local device to save cycles.</description>
+    <copyright>Tim Hanewich</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\bin\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.dll" target="lib\netstandard2.0\Cellular-Automata-Game-of-Life.dll" />
+    <file src="C:\Users\TaHan\Downloads\Glider.png" target="Glider.png" />
+  </files>
+</package>

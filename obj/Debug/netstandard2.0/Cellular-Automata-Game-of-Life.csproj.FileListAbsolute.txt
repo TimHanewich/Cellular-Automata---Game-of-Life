@@ -1,0 +1,9 @@
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\bin\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.deps.json
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\bin\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.dll
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\bin\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.pdb
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\obj\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.csprojAssemblyReference.cache
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\obj\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.csproj.CoreCompileInputs.cache
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\obj\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.AssemblyInfoInputs.cache
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\obj\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.AssemblyInfo.cs
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\obj\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.dll
+C:\Users\TaHan\Documents\GitHub\Cellular-Automata-Game-of-Life\obj\Debug\netstandard2.0\Cellular-Automata-Game-of-Life.pdb
