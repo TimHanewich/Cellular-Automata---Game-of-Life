@@ -10,7 +10,7 @@
     <Product>CellularAutomata.GameOfLife</Product>
     <Description>A recreation of John Conway's "Game of Life".  Uses arrays of boolean values to simulate cells.  Also includes a cloud compute module for computing the next frame in the cloud instead of on the local device to save cycles.</Description>
     <Copyright>Tim Hanewich</Copyright>
-    <PackageIcon>Glider.png</PackageIcon>
+    <PackageIcon>GliderIcon.png</PackageIcon>
     <AssemblyVersion>0.0.0.0</AssemblyVersion>
     <FileVersion>0.0.0.0</FileVersion>
   </PropertyGroup>
@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\Downloads\Glider.png">
+    <None Include="GliderIcon.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
